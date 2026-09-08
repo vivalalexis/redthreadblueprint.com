@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redthreadblueprint.com/sitemap-index.xml
