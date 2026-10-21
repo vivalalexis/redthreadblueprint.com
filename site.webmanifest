@@ -1,0 +1,13 @@
+{
+  "name": "Red Thread Blueprint",
+  "short_name": "Red Thread",
+  "description": "Birth chart readings computed properly and written out in English.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f7f4ee",
+  "theme_color": "#0f2d52",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/og/icon-180.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
